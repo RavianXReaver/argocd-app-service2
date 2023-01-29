@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: backend2
-        image: ravianxreaver/go_service2:v1
+        image: ravianxreaver/go_service2:v2
         resources:
           limits:
             memory: "512Mi"
